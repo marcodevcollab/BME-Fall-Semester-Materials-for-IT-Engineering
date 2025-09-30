@@ -1,0 +1,24 @@
+🏺 Definizione dell'Urn Model
+L’urn model (modello dell’urna) è una rappresentazione astratta utilizzata in probabilità e statistica per descrivere esperimenti casuali. Consiste in un contenitore (l’urna) che contiene elementi distinti (di solito palline di diversi colori o etichette), dai quali si effettuano estrazioni secondo regole precise.
+
+⚙️ Componenti fondamentali
+- Oggetti nell’urna: possono essere distinti per colore, numero, etichetta, ecc.
+- Tipo di estrazione:
+- Con reinserimento: dopo ogni estrazione, l’oggetto viene rimesso nell’urna.
+- Senza reinserimento: l’oggetto estratto non viene rimesso, modificando la composizione dell’urna.
+- Numero di estrazioni: può essere singola o multipla.
+- Probabilità: ogni oggetto può avere probabilità uguale o diversa di essere estratto.
+
+📊 A cosa serve?
+L’urn model è alla base di molte distribuzioni probabilistiche:
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+
+
+
+🧠 Esempio semplice
+Hai un’urna con 5 palline rosse e 3 blu. Se ne estrai 2 senza reinserimento, puoi calcolare la probabilità di ottenere una rossa e una blu usando il modello dell’urna e le combinazioni.
+
+Vuoi che lo applichiamo a un problema concreto, tipo giochi di carte, genetica o algoritmi? Posso costruirti un esempio su misura.
